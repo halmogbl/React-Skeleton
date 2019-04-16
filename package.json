@@ -5,7 +5,25 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "@fortawesome/fontawesome-svg-core": "^1.2.17",
+    "@fortawesome/free-solid-svg-icons": "^5.8.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.2",
+    "jquery": "^3.3.1",
+    "jwt-decode": "^2.2.0",
+    "morgan": "^1.9.0",
+    "popper.js": "^1.14.7",
+    "react-input-component": "^0.2.0",
+    "react-ratings-declarative": "^3.4.1",
+    "react-redux": "^6.0.1",
+    "react-responsive-modal": "^3.5.0",
+    "react-router-dom": "^5.0.0",
+    "react-stars-rating": "^0.0.5",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
