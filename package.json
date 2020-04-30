@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "express": "^4.16.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jwt-decode": "^2.2.0",
     "morgan": "^1.9.0",
     "popper.js": "^1.14.7",
